@@ -2,3 +2,4 @@
 
 - **Lab 02: Paycheck & Revenue** – C program performing arithmetic operations, formatted I/O, and simple control structures.  
 - **Lab 03: ATM Machine** – C program that simulates an ATM machine, featuring PIN validation, balance inquiry, cash withdrawal and deposit with daily limits, and receipt prompts
+- **Lab 04: Processing 1D Arrays** - Implements 1D array utilities: fill with random ints (min–max), find max in an index range (ANSI-color highlight), reverse whole array and selected subranges, and detect a two-number sequence
